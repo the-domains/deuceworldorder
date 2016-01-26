@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8108942272103168
+  lightness: 0.7713734697154689
+  rhythmicContrast: 0.6124342282899568
+  saturation: 0.8499512063910931
+cta: {}
+layout_spectrum: 0.6079828688088059
+name: DeuceWorldOrder
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.83433766348863
