@@ -1,20 +1,4 @@
-name: DeuceWorldOrder
-favicon: null
-layout_spectrum: 0.6079828688088059
 typography_spectrum: 0.83433766348863
-title: Deuce World Order
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -26,7 +10,24 @@ color:
   lightness: 0.7713734697154689
   saturation: 0.8499512063910931
   rhythmicContrast: 0.6124342282899568
-purpose:
-  - name: null
-    item: null
-    url: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6079828688088059
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: DeuceWorldOrder
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Store
+    url: 'http://www.deuceunlimited.com'
+    type: external
+favicon: null
+title: Deuce World Order
+purpose: []
